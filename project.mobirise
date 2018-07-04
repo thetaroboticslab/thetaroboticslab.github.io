@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thetarobotics",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3140,7 +3140,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Training",
+        "title": "Projects",
         "order": 2
       },
       "components": [
@@ -4184,7 +4184,7 @@
     "page7.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "iot",
+        "title": "IoT",
         "order": 6
       },
       "components": [
