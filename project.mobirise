@@ -1080,7 +1080,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=GPxMXTTwszI\">Six axis robot arm, 0.5 Kg Payload</a>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=GPxMXTTwszI\" target=\"_blank\">Six axis robot arm, 0.5 Kg Payload</a>",
                 "active": false
               },
               {
@@ -1093,7 +1093,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=7I39C4V6rrU\">Quadruped Robot Simulation</a>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=7I39C4V6rrU\" target=\"_blank\">Quadruped Robot Simulation</a>",
                 "active": false
               },
               {
@@ -1106,7 +1106,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=kA5t5x2HzbM\">Snake Robot</a>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=kA5t5x2HzbM\" target=\"_blank\">Snake Robot</a>",
                 "active": true
               },
               {
@@ -1119,7 +1119,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=RInASrjudV8\">Robot arm GUI&nbsp;</a>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=RInASrjudV8\" target=\"_blank\">Robot arm GUI&nbsp;</a>",
                 "active": false
               },
               {
@@ -1132,7 +1132,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=-PEaYGqE5k8\">Robotic arm Superior motion planning</a><br>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=-PEaYGqE5k8\" target=\"_blank\">Robotic arm Superior motion planning</a><br>",
                 "active": false
               },
               {
@@ -1145,7 +1145,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.youtube.com/watch?v=Jq2VSU0Upp4\">Snake Robot Simulation</a>",
+                "caption": "<a href=\"https://www.youtube.com/watch?v=Jq2VSU0Upp4\" target=\"_blank\">Snake Robot Simulation</a>",
                 "active": false
               },
               {
